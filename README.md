@@ -51,7 +51,7 @@ Start the server
 Go to the following route
 
 ```
-http://127.0.0.1:8000/ViewStudents
+http://[ContainerIP]:80/ViewStudents
 ```
 
 
